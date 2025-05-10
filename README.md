@@ -1,5 +1,5 @@
 # Terminal-Adventures  
-Terminal-Adventures is a CLI based RPG game with similar mechanics to a homebrew DND campaign. This game is being solo developed by yours truly. Please feel free to make recommendations or contribute. 
+Terminal-Adventures is a CLI based RPG game (written in C++) with similar mechanics to a homebrew DND campaign. This game is being solo developed by yours truly. Please feel free to make recommendations or contribute. 
 
 ## Work in progress...
 Terminal-Adventures is currently being worked on and is not yet complete game, feel free to check back in later when an alpha version is released. 
