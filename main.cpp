@@ -1,14 +1,16 @@
-// Main file the game will run through.
-
 #include <iostream>
+#include <random>
 #include "npc.h"
 #include "game.h"
+#include "dice.h"
 using namespace std;
 
 void printMainMenu();
 
 int main() {
+//	Dice newDice;	// initialize new dice that can be used
 	printMainMenu();
+
 	return 0;
 }
 
